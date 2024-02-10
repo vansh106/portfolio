@@ -1,0 +1,92 @@
+# The primary author of this blog.
+# Must be the same as `author` in `_config.yml`.
+# Change `author1` to your shortname.
+author1:
+  name:              Vansh Bulani
+  email:             vanshbulani6@gmail.com
+
+  # Used at the bottom of each page and at the top of the `about` layout
+  # Markdown enabled, can use multiple paragraphs (enabled by `|`)
+  about:             |
+
+    I am Vansh Bulani, an aspiring software engineer with a flair for Back-end Development. I thrive at the intersection of data and technology, where innovation knows no bounds.
+
+
+    ⚒️ Tech Wizardry: I specialize in backend development, android development and web3 domain. My prowess extends to high-performance database management, ensuring seamless scalability while maintaining rock-solid uptime.
+
+
+    🔥 Innovation Enthusiast: I'm passionate about pushing boundaries, whether it's brainstorming the system design or creating end-to-end industry level projects such as Coupsome. I relish challenges and embrace opportunities for continuous growth.
+
+
+    ⚽🍿 Beyond Tech: Outside the tech realm, I'm a football fanatic and a cinephile. Life is a dynamic dance, and I aim to make every step count.
+
+  # This photo will be used in the about section
+  picture:
+    path:            /assets/img/dp-circle.png
+    # srcset is optional, but can be used to provide higher res versions for retina displays
+    # srcset:
+    #   1x:            /assets/img/dp.jpg
+    #   2x:            /assets/img/dp.jpg
+
+  # Social media icons in sidebar
+  # Comment/uncommet to show/hide
+  # Rearrange to change the order in which they appear
+  social:
+    email:             vanshbulani6@gmail.com 
+    linkedin:          vanshbulani
+    github:            vansh106
+    download:          https://drive.google.com/uc?export=download&id=1sXeUAAUjP4IASRRVv0ZaWf2d1mmydwZB
+    # twitter:         <username>
+    # email:           <mail@domain.tld>
+    # rss:             https://<url>/feed.xml
+    # facebook:        <username>
+    # google:          <number>
+    # vk:              <username>
+    # youtube:         <string_string_string>
+    # vimeo:           <username>
+    # vine:            <username>
+    # spotify:         <user>/<number>
+    # soundcloud:      <username>
+    # lastfm:          <username>
+    # instagram:       <username>
+    # flickr:          <string@string>
+    # 500px:           <username>
+    # dribbble:        <username>
+    # behance:         <username>
+    # deviantart:      <username>
+    # ello:            <username>
+    # twitch:          <username>
+    # steam:           <number>
+    # reddit:          <username>
+    # tumblr:          <username>
+    # pinterest:       <username>
+    # foursquare:      <number>
+    # yelp:            <string>
+    # stackoverflow:   <number/username>
+    # npm:             <username>
+    # hackernews:      <username>
+    # trello:          <firstnamelastname>
+    # xing:            <firstname_lastname_counter>
+    # blogger:         <number>
+    # delicious:       <username>
+    # stumbleupon:     <username>
+    # paypal:          <username>
+    # download:        <url>
+    # keybase          <username>
+
+a: <span>HELLO</span>
+
+# Another author (optional)
+author2:
+  name:              <firtname> <lastname>
+  email:             <mail@domain.tld>
+  about:             |
+    Lorem ipsum dolor sit amet, consectetur adipiscing elit,
+    sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+    Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+
+    Open `_data/authors.yml` to edit this text.
+
+  picture:           https://placehold.it/128x128
+  twitter:           <username>
+  github:            <username>
