@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "From Idea to Reality: The 'Coupsome' Launch Story"
-sitemap: false
+sitemap: true
 hide_last_modified: true
 ---
 
