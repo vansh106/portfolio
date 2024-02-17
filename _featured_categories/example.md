@@ -10,7 +10,7 @@ slug: Blog
 
 # (Optional) Write a short (~150 characters) description of this featured tag.
 description: >
-  This is my blog page. I regularly write technical blogs and personal experiences in my life.
+  I blend personal stories with technical deep-dives in my blog – come explore my journey!
 
 # (Optional) You can disable grouping posts by date.
 # no_groups: true
