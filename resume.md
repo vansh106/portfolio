@@ -1,4 +1,4 @@
-[Download Resume](https://drive.google.com/uc?export=download&id=1sXeUAAUjP4IASRRVv0ZaWf2d1mmydwZB)
+[Download Resume](https://drive.google.com/uc?export=download&id=17pnY6_OjT153rdVeDumBVSFkOxshVN9j)
 
 # <span style="color: #2596be"> Vansh Bulani </span>
 
@@ -21,6 +21,9 @@ line. It is intended to be used for contact details -->
 HTML, CSS and Js
  - Optimized API using threading, containerized, deployed, automated the API on server.
  - Increased APK analysis speed by 40% through optimization of open-source projects, eliminating redundancy
+ - Designed and implemented a comprehensive Fediverse analysis system, collecting daily data and storing it efficiently in a SQL database.
+ - Developed dynamic frontend visualizations using Chart.js to showcase insightful Fediverse usage statistics and trends.
+ - Established CI/CD pipelines with GitHub Actions, and deployment to improve development efficiency.
 
 ## MoLog
 ### <span>Android Developer</span> <span style="margin-left: 18%;">Jun 2022 - Sept 2022</span>
@@ -95,4 +98,4 @@ for easy asset recovery in case of private key loss.
 
 <br>
 
-[Download Resume](https://drive.google.com/uc?export=download&id=1sXeUAAUjP4IASRRVv0ZaWf2d1mmydwZB)
+[Download Resume](https://drive.google.com/uc?export=download&id=17pnY6_OjT153rdVeDumBVSFkOxshVN9j)
