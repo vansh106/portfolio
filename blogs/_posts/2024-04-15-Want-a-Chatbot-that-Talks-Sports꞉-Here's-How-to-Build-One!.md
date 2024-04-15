@@ -44,7 +44,7 @@ func GenSqlQuery(prompt string) string{
 							 NOTE: No. of rows in output should be never be more than 20.
 							 NOTE: Team names and player names should be case insensitive in query.
 							 NOTE: Give out statistics for all the teams or players asked in the prompt.
-							 %s`, createTableQuery, playerQuery, fixturesQuery, prompt)
+							 %s`, TeamsSchema, playersSchema, fixturesSchema, prompt)
 }
 ```
 
