@@ -69,6 +69,7 @@ Results:
 A lot of features could be added
 
 - Statistical driven predictions.
+- Real time matches data streaming pipeline
 - More number of seasons data.
 - Better algorithm for leveraging AI for data analytics.
 - User’s OpenAI key integration if planning to deploy it to public.
