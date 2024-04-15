@@ -63,7 +63,7 @@ I containerized the whole project and deployed in AWS.
 Maintaining data accuracy is crucial for any data-driven project. To ensure my sports data remains current, I implemented automated data pipelines. These pipelines utilize scripts to fetch data from relevant APIs.  A server endpoint allows for seamless data integration into the PostgreSQL database. This endpoint can be triggered manually for on-demand updates or configured to run on a recurring basis using AWS cron jobs. Scheduled updates, typically set for weekly execution, guarantee the data remains fresh and minimizes the risk of outdated information impacting analysis.
 
 Results:
-![1](/assets/img/plbot/1.jpg) ![2](/assets/img/plbot/2.jpg) ![3](/assets/img/plbot/3.jpg)
+![1](/assets/img/plbot/1_2.jpg) ![2](/assets/img/plbot/2_2.jpg) ![3](/assets/img/plbot/3_2.jpg)
 
 ### Future scope: 
 A lot of features could be added
