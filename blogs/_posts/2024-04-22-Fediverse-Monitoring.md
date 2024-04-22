@@ -43,5 +43,5 @@ Moreover, I am running cron job to fetch the updated data alternate day.
 This project recently opened its doors to the open source community. If you've ever been curious about contributing to open source but felt a bit intimidated, this project is a perfect entry point. Their step-by-step approach makes it easy for anyone to jump in and make a difference.
 
 <aside>
-💡 Github Link: https://github.com/cyfinoid/fediverse-monitoring
+💡 Github Link: [Go ahead and contribute!](https://github.com/cyfinoid/fediverse-monitoring)
 </aside>
